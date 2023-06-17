@@ -1,14 +1,14 @@
 module.exports = {
-TOKEN: "",
-ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
+TOKEN: "MTExOTAxMTYyMjMwNDg4Mjc4OA.G-0aaS.uz6ncAp6yAdUZ-fZi4xOmeT1sMNA271H1PjjcI",
+ownerID: ["702937562825752656"], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
-mongodbURL: "", //write your mongodb url.
+mongodbURL: "mongodb+srv://gorkemerez4:<password>@cluster0.hkryf5y.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
 status: '❤️ codeshare.me',
 commandsDir: './commands', //Please don't touch
-language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
+language: "tr", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
 embedColor: "ffa954", //hex color code
-errorLog: "", //write your discord error log channel id.
+errorLog: "977953737932955708", //write your discord error log channel id.
 
 
 sponsor: {
